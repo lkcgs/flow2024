@@ -1,3 +1,10 @@
-# flow2024
+# FLOW2024
 
-The newly developed FLOW2024 toolbox is a user-friendly set of Python tools within Jupyter Notebook that simplifies processing spatial data, eliminating the need for programming expertise. 
+The open-source Python-based toolbox FLOW2024 is designed for valley delineation, source zone identification, and geomorphological parameter calculation.
+
+More details will be available after the article describing the research is published.
+
+Authors:
+Lucie Koucka, Jan Jelenek, Martin Dostalik
+
+2025
